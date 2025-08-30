@@ -42,3 +42,4 @@ A simple MERN project that lets the user insert, update, delete & get products f
    ![image](https://github.com/mhy20401/Inventory-Management-System-MERN-CRUD-Project/assets/99351091/cc6368bd-f391-4d6b-b814-c931d48a0878)
 AAAAAAAAAAAAAAAAA
 A
+A
